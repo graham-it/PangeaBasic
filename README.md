@@ -9,7 +9,7 @@ Released on November 19, 2025
 
 [![](https://img.youtube.com/vi/V8yEF_wxnY0/0.jpg)](https://www.youtube.com/watch?v=V8yEF_wxnY0)
 
-## Pangea Basic: the interpreter
+## Pangea Basic
 Pangea Basic extends BASIC V7 graphics capabilities to VDC video output (80-columns) with a resolution of 640 x 200 pixels.
 
 ### Available commands:
@@ -30,7 +30,7 @@ Pangea Basic extends BASIC V7 graphics capabilities to VDC video output (80-colu
 
 Detailed info in the article scans (published for educational and didactic purposes only).
 
-## Super Quark: a sample application
+## Super Quark
 Using Pangea Basic, Super Quark displays high-resolution mathematical surfaces.
 
 ![](pics/quark_menu.png)
@@ -65,6 +65,11 @@ YY = U * COS(V)\
 ZZ = (U * U) * EXP(-U * U)\
 UI = 0 ; US = 3.14 ; VI = 0 ; VS = 6.28\
 ![](pics/quark_fn5.png)
+
+## Release notes
+Meaning of file name suffix:
+- "original" denotes the literal transcription of the published code;
+- "fixed" is the same program with small changes to fix minor bugs.
 
 ## Acknowledgments
 Thanks to Carlo Provetto who published the complete Commodore Gazette collection via the Dump Club 64 site:\
