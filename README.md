@@ -3,6 +3,10 @@
 Author: Francesco Berardi\
 Publisher: Commodore Gazette (Italy)\
 Issue: 1988/2 (March-April)\
+
+Digitized and fixed by Graham (Francesco Gramignani)\
+Released on November 19, 2025
+
 [![](https://img.youtube.com/vi/V8yEF_wxnY0/0.jpg)](https://www.youtube.com/watch?v=V8yEF_wxnY0)
 
 Install Pangea Basic then load Super Quark to try the following functions:
