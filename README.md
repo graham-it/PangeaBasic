@@ -9,23 +9,25 @@ Released on November 19, 2025
 
 [![](https://img.youtube.com/vi/V8yEF_wxnY0/0.jpg)](https://www.youtube.com/watch?v=V8yEF_wxnY0)
 
-Pangea Basic extends BASIC V7 graphics capabilities to VDC video output (80 columns) with a resolution of 640 x 200 pixels.
+Pangea Basic extends BASIC V7 graphics capabilities to VDC video output (80-columns) with a resolution of 640 x 200 pixels.
 
 ### Available commands:
-- GRAPHIC n
+- GRAPHIC {mode}
 - SCNCLR 6
-- COLOR n,cl
-- DRAW mode,x1,y1 to x2,y2 to x3,y3...
+- COLOR n,{reverse flag}
+- DRAW {mode},x1,y1 to x2,y2 to x3,y3 [to...]
 - SAVE {file name},256,start,end
 - LOAD {file name},256,start
-- BOX mode,x1,y1,x2,y2,{fill flag}
+- BOX {mode},x1,y1,x2,y2,{fill flag}
 - CHAR 4,x1,y1,{string},ht,wd,bank,ad
 - COPY,x1,y1,xlen,ylen,x2,y2
 - COPY {name},D4
 - SSHAPE,ad,x1,y1,xlen,ylen
 - GSHAPE,ad,x1,y1,xlen,ylen
-- CIRCLE mode,xc,yc,xr,yr,an
-- HLOAD
+- CIRCLE {mode},xc,yc,xr,yr,an
+- HLOAD (import from 40-columns bitmap)
+
+Detailed info in the article scans (published for educational and didactic purposes only).
 
 ## Super Quark
 
