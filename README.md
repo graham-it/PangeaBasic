@@ -4,7 +4,7 @@ Author: Francesco Berardi\
 Publisher: Commodore Gazette (Italy)\
 Issue: 1988/2 (March-April)
 
-Digitized and fixed by Graham (Francesco Gramignani)\
+Typed in and fixed by Graham (Francesco Gramignani)\
 Released on November 19, 2025
 
 [![](https://img.youtube.com/vi/V8yEF_wxnY0/0.jpg)](https://www.youtube.com/watch?v=V8yEF_wxnY0)
@@ -64,3 +64,7 @@ YY = U * COS(V)\
 ZZ = (U * U) * EXP(-U * U)\
 UI = 0 ; US = 3.14 ; VI = 0 ; VS = 6.28\
 ![](pics/quark_fn5.png)
+
+## Acknowledgments
+Thanks to Carlo Provetto who published the complete Commodore Gazette collection via the Dump Club 64 site:\
+https://www.dumpclub64.it/tales/commodore-gazette/
