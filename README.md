@@ -67,9 +67,9 @@ UI = 0 ; US = 3.14 ; VI = 0 ; VS = 6.28\
 ![](pics/quark_fn5.png)
 
 ## Release notes
-Meaning of file name suffix:
-- "original" denotes the literal transcription of the published code;
-- "fixed" is the same program with small changes to fix minor bugs.
+### Meaning of file name suffix:
+- "original" denotes the literal transcription of the published code
+- "fixed" is the same program with small changes to fix minor bugs
 
 ## Acknowledgments
 Thanks to Carlo Provetto who published the complete Commodore Gazette collection via the Dump Club 64 site:\
