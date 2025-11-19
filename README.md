@@ -9,6 +9,7 @@ Released on November 19, 2025
 
 [![](https://img.youtube.com/vi/V8yEF_wxnY0/0.jpg)](https://www.youtube.com/watch?v=V8yEF_wxnY0)
 
+## Pangea Basic: the interpreter
 Pangea Basic extends BASIC V7 graphics capabilities to VDC video output (80-columns) with a resolution of 640 x 200 pixels.
 
 ### Available commands:
@@ -29,12 +30,12 @@ Pangea Basic extends BASIC V7 graphics capabilities to VDC video output (80-colu
 
 Detailed info in the article scans (published for educational and didactic purposes only).
 
-## Super Quark
-
+## Super Quark: a sample application
 Using Pangea Basic, Super Quark displays high-resolution mathematical surfaces.
 
 ![](pics/quark_menu.png)
 
+### Usage
 Install Pangea Basic then load Super Quark to try the following functions:
 
 1) XX = SIN(V) * COS(U)\
