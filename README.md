@@ -20,14 +20,14 @@ UI = 0; US = 6.28; VI = 0; VS = 3.14
 YY = U * COS(V)\
 ZZ = (U * U) * SQR(U * U) / 10\
 UI = 1 ; US = 2 ; VI = 0 ; VS = 6.28\
-![](pics/quark_menu.png)
+![](screenshots/quark_menu.png)
 
 3) XX = U\
 YY = V\
 ZZ = SIN(U) * SIN(V)\
 UI = 0 ; US = 6.28 or 3.14\
 VI = 0 ; VS = 6.28 or 3.14\
-![](pics/quark_fn3.png)
+![](screenshots/quark_fn3.png)
 
 4) XX = (SIN(U) + 3) * SIN(V)\
 YY = (SIN(U) + 3) * COS(V)\
@@ -38,4 +38,4 @@ UI = 0 ; US = 6.28 ; VI = 0 ; VS = 6.28
 YY = U * COS(V)\
 ZZ = (U * U) * EXP(-U * U)\
 UI = 0 ; US = 3.14 ; VI = 0 ; VS = 6.28\
-![](pics/quark_fn5.png)
+![](screenshots/quark_fn5.png)
