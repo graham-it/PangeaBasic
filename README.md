@@ -68,7 +68,7 @@ UI=0; US=3.14; VI=0; VS=6.28\
 
 ## Release notes
 The source and binary files are distributed in two forms:
-- "original" denotes the literal transcription of the published code\
+- "original" denotes the literal transcription of the published code
 - "fixed" is the same program with small changes to fix minor bugs
 
 ## Acknowledgments
