@@ -2,7 +2,7 @@
 
 Author: Francesco Berardi\
 Publisher: Commodore Gazette (Italy)\
-Issue: 1988 n.2 (March-April)
+Issue: 1988 n. 2 (March-April)
 
 Typed-in and fixed by Graham (Francesco Gramignani)\
 Released on November 19, 2025
