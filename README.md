@@ -2,9 +2,9 @@
 
 Author: Francesco Berardi\
 Publisher: Commodore Gazette (Italy)\
-Issue: 1988/2 (March-April)
+Issue: 1988 n.2 (March-April)
 
-Typed in and fixed by Graham (Francesco Gramignani)\
+Typed-in and fixed by Graham (Francesco Gramignani)\
 Released on November 19, 2025
 
 [![](https://img.youtube.com/vi/V8yEF_wxnY0/0.jpg)](https://www.youtube.com/watch?v=V8yEF_wxnY0)
@@ -13,25 +13,27 @@ Released on November 19, 2025
 Pangea Basic extends BASIC V7 graphics capabilities to VDC video output (80 columns) with a resolution of 640 x 200 pixels.
 
 ### Available commands:
-- GRAPHIC {mode}
+- GRAPHIC mode
 - SCNCLR 6
-- COLOR n, {reverse flag}
-- DRAW {mode}, x1, y1 to x2, y2 to x3, y3 [to...]
-- SAVE {file name}, 256, start, end
-- LOAD {file name}, 256, start
-- BOX {mode}, x1, y1, x2, y2, {fill flag}
-- CHAR 4, x1, y1, {string}, ht, wd, bank, ad
+- COLOR n, reverse flag
+- DRAW mode, x1, y1 to x2, y2 to x3, y3 [to...]
+- SAVE "file name", 256, start, end
+- LOAD "file name", 256, start
+- BOX mode, x1, y1, x2, y2, fill flag
+- CHAR 4, x1, y1, "text string", ht, wd, bank, ad
 - COPY, x1, y1, xlen, ylen, x2, y2
-- COPY {name}, D4
+- COPY "dummy name", D4
 - SSHAPE, ad, x1, y1, xlen, ylen
 - GSHAPE, ad, x1, y1, xlen, ylen
-- CIRCLE {mode}, xc, yc, xr, yr, an
+- CIRCLE mode, xc, yc, xr, yr, an
 - HLOAD (import from 40 columns bitmap)
 
-Detailed info in the article scans (published for educational and didactic purposes only).
+Detailed info in the article scans (published for educational and preservation purposes only).
 
-## Super Quark
-Using Pangea Basic, Super Quark displays high-resolution mathematical surfaces.
+![](pics/pangea_title.png)
+
+## Super Quark (included demo)
+Through the graphical commands offered by Pangea Basic, Super Quark calculates and displays high-resolution mathematical surfaces.
 
 ![](pics/quark_menu.png)
 
