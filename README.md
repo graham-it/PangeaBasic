@@ -74,5 +74,5 @@ The source and binary files are distributed in two forms:
 - "fixed" is the same program with small changes to fix minor bugs
 
 ## Acknowledgments
-Thanks to Carlo Provetto who published the complete Commodore Gazette collection via the Dump Club 64 site\
+Thanks to Carlo Provetto who published the complete Commodore Gazette collection via the Dump Club 64 site:\
 https://www.dumpclub64.it/tales/commodore-gazette/
